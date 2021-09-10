@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @PRR184
-- 👀 I’m interested in Web Development, Machine Learning.
-- 🌱 I’m currently learning Nodejs.
-- 💞️ I’m looking to collaborate on projects related to Backend Web developmnet.
+- 👋 Hi, I’m @Raghavendra
+- 👀 I’m interested in Web Development, Blockchain.
+- 🌱 I’m currently learning Blockchain.
+- 💞️ I’m looking to collaborate on projects related to Backend Web developmnet and BLockchain.
 - 📫 How to reach me - raghavendra18042002@gmail.com
 
 <!---
